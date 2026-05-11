@@ -39,17 +39,37 @@ Examples: Student, Faculty, Course, Department.
 9. Relationships:
 Relationships connect two objects in Salesforce.
 
-Student and Department:
+College Management System Data Model:
+
+Department
+   ↓
+   ├── Student
+   ├── Faculty
+   └── Course
+
+Student ↔ Course
+
+Relationship Explanation:
+
+1. Student and Department:
 Many students can belong to one department.
+Example: CSE department has many students.
+Relationship Type: Lookup Relationship
 
-Faculty and Department:
+2. Faculty and Department:
 Many faculty members can belong to one department.
+Example: CSE department has many faculty members.
+Relationship Type: Lookup Relationship
 
-Course and Department:
+3. Course and Department:
 Many courses can belong to one department.
+Example: CSE department offers courses like DBMS, Java, and Salesforce.
+Relationship Type: Lookup Relationship
 
-Student and Course:
+4. Student and Course:
 One student can register for many courses, and one course can have many students.
+Example: One student can take Java and Salesforce. One Salesforce course can have many students.
+Relationship Type: Many-to-Many Relationship using a junction object called Enrollment.
 
 10. Formula Fields:
 
