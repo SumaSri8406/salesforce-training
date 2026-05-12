@@ -1,26 +1,54 @@
 Week 1 - Salesforce Training
 
-This folder contains Week 1 Salesforce learning work.
+Day 1 - Salesforce CRM Basics
 
 Topics Covered:
-- Day 1: Salesforce CRM Basics
-- Day 2: Salesforce Platform Basics
-- Day 3: Salesforce Data Modeling, Formula Fields, and Validation Rules
+- Introduction to Salesforce
+- Customer Relationship Management
+- Need and uses of Salesforce
+- Salesforce Developer role
+- Leads, Contacts, Accounts, and Opportunities
+- Basic CRM flow
+- College Admission System mapping
 
-Day 1:
-Day 1 covers Salesforce introduction, CRM, Salesforce Developer role, basic CRM flow, and real-life mapping.
 
-Day 2:
-Day 2 covers Salesforce Platform, Apps, Objects, Tabs, Configuration, Coding, and College Management System design.
+Day 2 - Salesforce Platform Basics
 
-Day 3:
-Day 3 covers Objects, Fields, Records, Standard Objects, Custom Objects, Relationships, Schema Builder, Formula Fields, Roll-Up Summary Fields, and Validation Rules.
+Topics Covered:
+- Salesforce Platform
+- Apps, Objects, Tabs, and Records
+- Configuration and Coding
+- Multi-Tenant Architecture
+- Standard business applications
+- College Management System design
 
-Learning Outcomes:
-- Understanding of Salesforce and CRM
-- Understanding of CRM business flow
-- Understanding of Apps, Objects, Fields, Records, and Tabs
-- Difference between Standard Objects and Custom Objects
-- Understanding of Lookup and Master-Detail Relationships
-- Difference between Formula Fields and Validation Rules
-- Basic idea of how structured enterprise data is created in Salesforce
+
+Day 3 - Salesforce Data Modeling
+
+Topics Covered:
+- Data Modeling
+- Objects, Fields, and Records
+- Standard Objects and Custom Objects
+- Lookup Relationship
+- Master-Detail Relationship
+- Schema Builder
+- Formula Fields
+- Roll-Up Summary Fields
+- Validation Rules
+
+
+Day 4 - Salesforce Flow Builder and Automation
+
+Topics Covered:
+- Flow Builder
+- Business Process Automation
+- Flow Variables
+- Screen Flow
+- Autolaunched Flow
+- Record-Triggered Flow
+- Data Elements
+- Get Records, Create Records, and Update Records
+- Action Elements
+- Email Alerts
+- Chatter Posts
+- Global Variables
