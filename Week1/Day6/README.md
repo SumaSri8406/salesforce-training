@@ -67,7 +67,7 @@ Used for:
 Example:
 After creating a customer account, automatically create an opportunity record.
 
-## 4. Trigger Use Cases (5 Examples)
+## 4. Trigger Use Cases 
 
 ### 1. Student Registration
 Event:
