@@ -1,8 +1,5 @@
 # Day 7 — Testing, Async Apex & Salesforce DX
 
-## Goal for Today
-Learn why testing is important in enterprise systems, understand asynchronous processing, and explore professional Salesforce development workflow using DX, CLI, and GitHub.
-
 ## 1. Why Testing Matters
 Testing is important in Salesforce because enterprise systems must be reliable and bug-free.
 
