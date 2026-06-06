@@ -22,9 +22,3 @@ Topics Covered:
 - Flow Variables
 - Screen Flow
 - Autolaunched Flow
-  - Day3/
-    - README.md
-    - screenshots/
-  - Day4/
-    - README.md
-    - screenshots/
