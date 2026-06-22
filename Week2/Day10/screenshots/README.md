@@ -1,6 +1,6 @@
 # Screenshots
 
-Store screenshots for:
+## screenshots:
 
 - Objects
 - Validation Rules
