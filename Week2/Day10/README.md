@@ -271,3 +271,47 @@ Sensitive student data must remain protected.
 This project helped me understand how Salesforce combines data storage, automation, business logic, and user interfaces to build enterprise applications.
 
 I learned how CRM concepts, flows, Apex, triggers, and LWC work together as a complete system rather than as individual tools.
+
+
+## Revision Questions
+
+### 1. Why do enterprise systems need modular architecture?
+
+Modular architecture separates functionality into independent components, making systems easier to maintain, test, and scale.
+
+### 2. Why are relationships important?
+
+Relationships connect data across objects and allow efficient data retrieval and management.
+
+### 3. Why are Flows insufficient for some cases?
+
+Flows handle automation well, but complex business logic often requires Apex code.
+
+### 4. Why do systems need event-driven behavior?
+
+Event-driven systems automatically respond to actions such as record creation or updates.
+
+### 5. Why is UI/backend separation important?
+
+It improves maintainability, scalability, and allows independent development of user interfaces and business logic.
+
+### 6. Why do enterprise systems require testing?
+
+Testing ensures reliability, correctness, security, and prevents production failures.
+
+### 7. Why is reusable UI architecture powerful?
+
+Reusable components reduce development effort and maintain consistency.
+
+### 8. What problems happen when systems scale?
+
+Performance issues, data consistency challenges, increased security risks, and notification overload.
+
+### 9. Why should automation be designed carefully?
+
+Poor automation can create loops, errors, and performance problems.
+
+### 10. How do all Salesforce concepts integrate together?
+
+Objects store data, validation rules ensure data quality, flows automate processes, Apex handles business logic, triggers respond to events, and LWC provides the user interface.
+
