@@ -36,13 +36,13 @@
 
 ### Process
 
-Faculty Member
-↓
-Head of Department
-↓
-Principal
-↓
-Leave Approved
+1. Faculty Member
+
+2. Head of Department
+
+3. Principal
+
+4. Leave Approved
 
 ### Approval Order
 
@@ -61,13 +61,13 @@ Leave Approved
 
 ### Process
 
-Student
-↓
-Scholarship Committee
-↓
-Finance Department
-↓
-Scholarship Approved
+1. Student
+
+2. Scholarship Committee
+
+3. Finance Department
+
+4. Scholarship Approved
 
 ### Approval Order
 
@@ -87,15 +87,15 @@ Scholarship Approved
 
 ### Process
 
-Department
-↓
-Department Head
-↓
-Finance Manager
-↓
-Principal
-↓
-Budget Approved
+1. Department
+
+2. Department Head
+
+3. Finance Manager
+
+4. Principal
+
+5. Budget Approved
 
 ### Approval Order
 
@@ -149,21 +149,7 @@ Action:
 * Escalate issue to administration.
 * Schedule counseling session.
 * Generate disciplinary review request.
-
----
-
-## Flow Structure
-
-Attendance Check
-↓
-Decision Element
-↓
-75% Branch → Warning Email
-↓
-60% Branch → Parent Notification
-↓
-50% Branch → Administrative Escalation
-
+  
 ---
 
 # Task 3: Governance Thinking
