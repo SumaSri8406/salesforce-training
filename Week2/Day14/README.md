@@ -11,11 +11,11 @@
 ### Process
 
 Faculty Member
-↓
+-
 Department Head
-↓
+-
 Academic Dean
-↓
+-
 Approved Course Creation
 
 ### Approval Order
