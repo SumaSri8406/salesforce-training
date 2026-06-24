@@ -10,13 +10,13 @@
 
 ### Process
 
-Faculty Member
--
-Department Head
--
-Academic Dean
--
-Approved Course Creation
+1. Faculty Member
+
+2. Department Head
+
+3. Academic Dean
+
+4. Approved Course Creation
 
 ### Approval Order
 
