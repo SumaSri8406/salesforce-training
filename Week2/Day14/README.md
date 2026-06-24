@@ -2,10 +2,6 @@
 
 ## Flow Logic, Approval Processes and Governance
 
-### Objective
-
-The objective of this task is to understand how enterprise systems use controlled workflows, approvals, and governance to manage important business operations securely and efficiently.
-
 ---
 
 # Task 1: Multi-Level Approval Design
