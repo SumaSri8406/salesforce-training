@@ -27,9 +27,7 @@ A proper deployment workflow ensures:
 * Better quality control
 * Safe updates
 * Faster recovery from failures
-
-Without a deployment workflow, organizations risk system outages and business disruptions.
-
+  
 ---
 
 # Org Development Model
@@ -55,8 +53,6 @@ Live environment used by real users.
 Typical Flow:
 
 Developer Sandbox → Testing Sandbox → Staging → Production
-
-This approach minimizes risk and improves reliability.
 
 ---
 
@@ -105,8 +101,6 @@ Incorrect code may accidentally modify or delete records.
 Example:
 
 Student information could become corrupted.
-
-Therefore, all changes should be tested before production deployment.
 
 ---
 
