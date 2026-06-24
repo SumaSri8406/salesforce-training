@@ -2,8 +2,6 @@
 
 ## Flow Logic, Approval Processes and Governance
 
----
-
 # Task 1: Multi-Level Approval Design
 
 ## 1. Course Creation Approval Workflow
