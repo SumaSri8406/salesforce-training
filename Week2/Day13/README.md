@@ -1,11 +1,5 @@
 # Salesforce Summer Program – Day 13
 
-## DevOps, CI/CD and Enterprise Deployment Workflow
-
-### Objective
-
-The objective of Day 13 is to understand how Salesforce applications are deployed and maintained in real-world organizations using DevOps practices, CI/CD pipelines, GitHub collaboration, testing, and release management.
-
 ---
 
 # What is CI/CD?
@@ -16,23 +10,9 @@ CI/CD stands for Continuous Integration and Continuous Deployment (or Continuous
 
 Continuous Integration is the process of frequently merging code changes into a shared repository such as GitHub.
 
-Benefits:
-
-* Detects errors early
-* Improves code quality
-* Encourages team collaboration
-* Reduces integration conflicts
-
 ### Continuous Deployment (CD)
 
 Continuous Deployment automates the release process after successful testing and validation.
-
-Benefits:
-
-* Faster releases
-* Reduced manual effort
-* More reliable deployments
-* Consistent software delivery
 
 ---
 
@@ -274,9 +254,7 @@ Provides:
 * Continuous deployment
 * Faster releases
 * Improved reliability
-
-Together, GitHub, Salesforce DX, and DevOps create a professional Salesforce development lifecycle.
-
+  
 ---
 
 # Enterprise Deployment Risks
@@ -310,8 +288,6 @@ Importance:
 * Quickly restores service
 * Minimizes business impact
 
-Rollback is an important part of enterprise release management.
-
 ---
 
 # Reflection
@@ -333,10 +309,6 @@ Engineering Enterprise Software:
 * Requires version control
 * Supports thousands of users
 * Considers security, scalability, and maintenance
-
-Writing code creates functionality.
-
-Engineering enterprise software delivers reliable business solutions at scale.
 
 ---
 
@@ -383,9 +355,3 @@ It improves collaboration, automation, and delivery speed.
 Enterprise software must be reliable, secure, scalable, maintainable, and support large numbers of users.
 
 ---
-
-# Conclusion
-
-Day 13 introduced enterprise software delivery concepts including CI/CD, deployment pipelines, GitHub collaboration, Salesforce DX workflow, DevOps practices, release management, rollback strategies, and production deployment safety.
-
-These concepts are essential for professional Salesforce development and modern software engineering.
