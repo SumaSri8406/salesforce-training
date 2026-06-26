@@ -218,12 +218,6 @@ Solutions
 
 ---
 
-# Reflection
-
-Debugging is one of the most important software engineering skills because every software system eventually encounters bugs. A developer who can efficiently identify, analyze, and resolve issues helps ensure reliable, secure, and high-performing applications. Good debugging skills also reduce downtime, improve user satisfaction, and make enterprise systems easier to maintain.
-
----
-
 # Revision Questions
 
 ## 1. Why are debug logs important?
