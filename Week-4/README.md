@@ -44,9 +44,7 @@ Designed a user access model for a college management system with the following 
 - HOD
 - Principal
 - Salesforce Administrator
-
-Defined appropriate access permissions for Student Records, Course Records, Placement Records, and Attendance Records.
-
+  
 ## Skills Gained
 
 - User Administration
